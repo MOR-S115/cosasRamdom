@@ -7,3 +7,4 @@ for asignatura in asignaturas:
 if len(asignaturas)==5:
     for asignatura in asignaturas:
         print ("en la asignatura de ",asignatura," obtuviste una puntauacion de:",notes[asignatura])
+#lo que sea
